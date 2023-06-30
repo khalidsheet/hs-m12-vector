@@ -1,0 +1,23 @@
+{
+  "name": "vector",
+  "version": "1.0.0",
+  "description": "## Instantiate a new Vector Object",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khalidsheet/hs-m12-vector.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khalidsheet/hs-m12-vector/issues"
+  },
+  "homepage": "https://github.com/khalidsheet/hs-m12-vector#readme",
+  "devDependencies": {
+    "jasmine": "^5.0.2"
+  }
+}
